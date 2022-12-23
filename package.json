@@ -1,0 +1,11 @@
+{
+  "name": "MMM-SVN-Monitor",
+  "version": "0.1.0",
+  "description": "Additional Module for MagicMirror², to display last commits in SVN repo.",
+  "main": "MMM-SVN-Monitor.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "svn": "latest"
+  }
+}

@@ -1,7 +1,15 @@
-.gh-monitor td:not(:last-child) {
-  padding-right: 1em;
+
+.MMM-GitHub-Monitor div {
+  font-size: 16px;
 }
 
-.gh-monitor td {
+.MMM-GitHub-Monitor table {
+  border-spacing: 6px 2px;
+}
+
+.MMM-GitHub-Monitor td {
   white-space: nowrap;
+  text-align: left;
+  vertical-align: top;
+  padding: 5px;
 }
